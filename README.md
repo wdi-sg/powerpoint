@@ -19,3 +19,9 @@ Pay attention to the paragraph describing the behaviour of the button on this sl
 
 ### Slide 4
 ![alt text](./slide-4.png "Slide 4")
+
+## Bonus
+Make the slides _fade_ from one to another.
+
+## Bonus
+Make the slides _slide_ from one to another.
