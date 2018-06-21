@@ -1,0 +1,45 @@
+.btn-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 4em;
+    background-color: orange;
+    width: 100%;
+}
+
+.btn-prev, .btn-next {
+    background-color: rgba(0,0,0,0.25);
+    border-radius: 50%;
+    height: 2em;
+    width: 2em;
+    line-height: 2em;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 1em;
+    cursor: pointer;
+    z-index: 1;
+    user-select: none;
+}
+
+.btn-prev {
+    left: 1em;
+}
+
+.btn-next {
+    right: 1em;
+}
+
+.hidden {
+    display: none;
+}
+
+* {
+    font-family: 'Helvetica';
+}
+
+.slide-content {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 650;
+    line-height: 1.25em;
+}
