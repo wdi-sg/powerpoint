@@ -21,7 +21,7 @@ Pay attention to the paragraph describing the behaviour of the button on this sl
 ![alt text](./slide-4.png "Slide 4")
 
 ## Bonus
-Make the slides _fade_ from one to another.
+Make the slides _responsive_.
 
 ## Bonus
-Make the slides _slide_ from one to another.
+Make the slides _fade_ or _slide_ from one to another.
