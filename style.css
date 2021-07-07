@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 4em;
+    background-color: orange;
+    width: 100%;
+}
+
+.presentation-header {
+	top: 0;
+	left: 0;
+    background-color: rgb(254 208 9);
+    overflow: hidden;
+    float: left;
+    height: 70px;
+    width: 100%;
+}
+
+#headText {
+	font-family: Arial;
+	font-size: 22px;
+	font-weight: 900;
+	color: white;
+	margin-left: 40px;
+	text-shadow: 2px 2px #000000;
+}
+
+#smiley {
+	width: 100%;
+	margin-top: 200px;
+}
+
+#ylwCircle {
+	margin: 0 auto;
+	background-color: yellow;
+	position: relative;
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+}
+
+#ylwBox {
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	z-index: 50;
+}
+
+#eyes {
+	position: absolute;
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	top: 20px;
+	left: 35px;
+	box-shadow: 100px 0px;
+}
+
+#lowerLip {
+	margin: 0 auto;
+	background-color: black;
+	position: absolute;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+	top: 60px;
+	left: 60px;
+}
+
+#upperLip {
+	margin: 0 auto;
+	background-color: yellow;
+	position: absolute;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	top: 15px;
+	left: 15px;
+}
